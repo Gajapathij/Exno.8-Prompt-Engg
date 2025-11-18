@@ -1,6 +1,6 @@
 # Exno.8-Prompt-Engg
 # Date:
-# Register no.:212222050002
+# Register no.:212222053002
 # Aim: 
 To perform the Exploration of Prompting Techniques for Audio Generation
 # Algorithm: 
